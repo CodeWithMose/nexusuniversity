@@ -113,3 +113,16 @@ border-radius: 5px;
 header{
 background-color: rgba(0,0,0,0.5);
 }
+.body{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgba(0,0,0,0.5);
+    margin: auto;
+    display: incline-block;
+}
+.body a {
+    text-decoration: none;
+    
+}
+
