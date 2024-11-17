@@ -114,15 +114,20 @@ header{
 background-color: rgba(0,0,0,0.5);
 }
 .body{
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: rgba(0,0,0,0.5);
-    margin: auto;
-    display: incline-block;
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
 }
+   
 .body a {
     text-decoration: none;
-    color
-}
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 20px;
+    display: incline-block;
 
+}
+.body a:hover{
+    background-color: blue;
+    
+}
